@@ -90,9 +90,9 @@ Base URL and headers are configured in `playwright.config.js`:
 
 `api-testing` `playwright` `test-automation` `restful-booker` `javascript` `nodejs` `api-automation` `e2e-testing` `crud-operations` `rest-api` `testing-framework` `playwright-test` `ci-cd` `quality-assurance` `automated-testing`
 
+---
+
 [![GitHub](https://img.shields.io/badge/GitHub-mabdulqadirhamza-181717?style=for-the-badge&logo=github)](https://github.com/mabdulqadirhamza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mabdulqadirhamza/)
-
----
 
 ⭐ If you find this project helpful, please consider giving it a star!
